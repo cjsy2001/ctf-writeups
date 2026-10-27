@@ -1,0 +1,15 @@
+[
+  {
+    "artefacts": {},
+    "created_at": "2026-10-27T19:55:41Z",
+    "gate": null,
+    "health": null,
+    "moved": null,
+    "phase": "specify",
+    "seq": 1,
+    "slug": "ctf-writeups",
+    "summary": "A structured CTF learning path from picoCTF to Hack The Box Starting Point to TryHackMe, with a methodology writeup for every challenge. Flags are redacted, and only content the platforms allow to be published is included.",
+    "title": "CTF learning path and writeups",
+    "updated_at": "2026-10-27T19:55:41Z"
+  }
+]
